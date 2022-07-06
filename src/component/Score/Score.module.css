@@ -1,0 +1,36 @@
+
+.container {
+    margin: 100px auto 0px;
+    padding: 15px 25px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    
+    color: white;
+    background-color: rgb(232, 98, 74);
+    border-radius: 15px;
+}
+
+.total {
+
+}
+
+.head {
+    padding: 0;
+    font-size: 16px;
+}
+
+.score {
+    padding: 0;
+    font-size: 22px;
+}
+
+.theme {
+    cursor: pointer;
+    margin-left: 250px;
+    width: 60px;
+    height: 40px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(/src/image/logo.svg);
+}

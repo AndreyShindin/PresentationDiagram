@@ -1,0 +1,35 @@
+.container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.total {
+
+}
+
+.total-name {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    color: gray;
+}
+
+.total-all {
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.total-perc {
+    padding-left: 70px;
+}
+
+.last-head {
+    display: block;
+    font-size: 14px;
+    color: gray;
+}
+
+.perc {
+    margin-top: 20px;
+}
